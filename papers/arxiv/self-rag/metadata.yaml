@@ -1,0 +1,19 @@
+title: "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection"
+description: "Self-RAG framework with reflection tokens."
+authors:
+  - 'Akari Asai'
+  - 'Zeqiu Wu'
+  - 'Yizhong Wang'
+  - 'Avirup Sil'
+  - 'Hannaneh Hajishirzi'
+created_at: 2023-10-17
+updated_at: 2026-04-26
+source: "https://arxiv.org/abs/2310.11511"
+license: "arXiv non-exclusive"
+tags:
+  - 'rag'
+  - 'self-reflection'
+  - 'llm'
+language: en
+category: "papers/arxiv"
+arxiv_id: "2310.11511"

@@ -1,0 +1,13 @@
+title: "검색 증강 생성 (RAG)"
+description: "한국어 위키백과의 RAG 항목."
+authors:
+  - 'Wikipedia contributors'
+updated_at: 2026-04-26
+source: "https://ko.wikipedia.org/wiki/%EA%B2%80%EC%83%89_%EC%A6%9D%EA%B0%95_%EC%83%9D%EC%84%B1"
+license: "CC BY-SA 4.0"
+tags:
+  - 'rag'
+  - '검색증강생성'
+  - 'llm'
+language: ko
+category: "korean/wiki"

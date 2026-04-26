@@ -1,0 +1,23 @@
+title: "Attention Is All You Need"
+description: "Original Transformer architecture paper."
+authors:
+  - 'Ashish Vaswani'
+  - 'Noam Shazeer'
+  - 'Niki Parmar'
+  - 'Jakob Uszkoreit'
+  - 'Llion Jones'
+  - 'Aidan N. Gomez'
+  - 'Lukasz Kaiser'
+  - 'Illia Polosukhin'
+created_at: 2017-06-12
+updated_at: 2026-04-26
+source: "https://arxiv.org/abs/1706.03762"
+license: "arXiv non-exclusive"
+tags:
+  - 'attention'
+  - 'transformer'
+  - 'nlp'
+  - 'ml'
+language: en
+category: "papers/arxiv"
+arxiv_id: "1706.03762"

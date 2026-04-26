@@ -1,0 +1,14 @@
+title: "트랜스포머 (기계 학습)"
+description: "한국어 위키백과의 트랜스포머 모델 항목."
+authors:
+  - 'Wikipedia contributors'
+updated_at: 2026-04-26
+source: "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)"
+license: "CC BY-SA 4.0"
+tags:
+  - 'transformer'
+  - '어텐션'
+  - 'nlp'
+  - '기계학습'
+language: ko
+category: "korean/wiki"

@@ -1,0 +1,17 @@
+title: "PEP 484 — Type Hints"
+description: "Standard syntax for type annotations of Python function signatures."
+authors:
+  - 'Guido van Rossum'
+  - 'Jukka Lehtosalo'
+  - 'Łukasz Langa'
+created_at: 2026-04-26
+updated_at: 2026-04-26
+source: "https://raw.githubusercontent.com/python/peps/main/peps/pep-0484.rst"
+license: "Public Domain"
+tags:
+  - 'python'
+  - 'typing'
+  - 'type-hints'
+  - 'pep'
+language: en
+category: "standards/pep"

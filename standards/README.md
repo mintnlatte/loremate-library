@@ -1,0 +1,3 @@
+# Standards
+
+RFC, PEP, W3C 등 외부 기술 표준 문서.

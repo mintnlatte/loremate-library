@@ -1,0 +1,17 @@
+title: "PEP 517 — A build-system independent format for source trees"
+description: "Defines a way for source trees to declare which build system to use."
+authors:
+  - 'Brett Cannon'
+  - 'Nathaniel Smith'
+  - 'Donald Stufft'
+created_at: 2026-04-26
+updated_at: 2026-04-26
+source: "https://raw.githubusercontent.com/python/peps/main/peps/pep-0517.rst"
+license: "Public Domain"
+tags:
+  - 'python'
+  - 'build'
+  - 'packaging'
+  - 'pep'
+language: en
+category: "standards/pep"

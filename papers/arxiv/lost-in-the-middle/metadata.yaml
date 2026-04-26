@@ -1,0 +1,21 @@
+title: "Lost in the Middle: How Language Models Use Long Contexts"
+description: "Long-context performance characterization."
+authors:
+  - 'Nelson F. Liu'
+  - 'Kevin Lin'
+  - 'John Hewitt'
+  - 'Ashwin Paranjape'
+  - 'Michele Bevilacqua'
+  - 'Fabio Petroni'
+  - 'Percy Liang'
+created_at: 2023-07-06
+updated_at: 2026-04-26
+source: "https://arxiv.org/abs/2307.03172"
+license: "arXiv non-exclusive"
+tags:
+  - 'long-context'
+  - 'llm'
+  - 'evaluation'
+language: en
+category: "papers/arxiv"
+arxiv_id: "2307.03172"

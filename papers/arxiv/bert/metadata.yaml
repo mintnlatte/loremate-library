@@ -1,0 +1,19 @@
+title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+description: "BERT pretraining paper."
+authors:
+  - 'Jacob Devlin'
+  - 'Ming-Wei Chang'
+  - 'Kenton Lee'
+  - 'Kristina Toutanova'
+created_at: 2018-10-11
+updated_at: 2026-04-26
+source: "https://arxiv.org/abs/1810.04805"
+license: "arXiv non-exclusive"
+tags:
+  - 'bert'
+  - 'transformer'
+  - 'pretraining'
+  - 'nlp'
+language: en
+category: "papers/arxiv"
+arxiv_id: "1810.04805"

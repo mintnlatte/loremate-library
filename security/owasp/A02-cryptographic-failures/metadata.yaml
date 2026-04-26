@@ -1,0 +1,14 @@
+title: "OWASP Top 10 (2021) — A02: Cryptographic Failures"
+description: "Failures related to cryptography that often lead to exposure of sensitive data."
+authors:
+  - 'OWASP Foundation'
+created_at: 2026-04-26
+updated_at: 2026-04-26
+source: "https://raw.githubusercontent.com/OWASP/Top10/master/2021/docs/en/A02_2021-Cryptographic_Failures.md"
+license: "CC BY-SA 4.0"
+tags:
+  - 'owasp'
+  - 'cryptography'
+  - 'security'
+language: en
+category: "security/owasp"

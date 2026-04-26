@@ -1,0 +1,15 @@
+title: "RFC 6749 — The OAuth 2.0 Authorization Framework"
+description: "Authorization framework for delegated access to HTTP services."
+authors:
+  - 'IETF'
+created_at: 2026-04-26
+updated_at: 2026-04-26
+source: "https://www.rfc-editor.org/rfc/rfc6749.txt"
+license: "IETF Trust"
+tags:
+  - 'oauth'
+  - 'authentication'
+  - 'authorization'
+  - 'token'
+language: en
+category: "standards/rfc"

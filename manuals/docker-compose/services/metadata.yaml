@@ -1,0 +1,14 @@
+title: "Compose Spec — Services"
+description: "Service definition (build, image, ports, environment, depends_on …)."
+authors:
+  - 'Compose Specification Authors'
+created_at: 2026-04-26
+updated_at: 2026-04-26
+source: "https://raw.githubusercontent.com/compose-spec/compose-spec/main/05-services.md"
+license: "Apache-2.0"
+tags:
+  - 'docker'
+  - 'compose'
+  - 'services'
+language: en
+category: "manuals/docker-compose"

@@ -1,0 +1,18 @@
+title: "PEP 621 — Storing project metadata in pyproject.toml"
+description: "Standardizes [project] table for storing package metadata."
+authors:
+  - 'Brett Cannon'
+  - 'Dustin Ingram'
+  - 'Paul Ganssle'
+created_at: 2026-04-26
+updated_at: 2026-04-26
+source: "https://raw.githubusercontent.com/python/peps/main/peps/pep-0621.rst"
+license: "Public Domain"
+tags:
+  - 'python'
+  - 'pyproject'
+  - 'metadata'
+  - 'packaging'
+  - 'pep'
+language: en
+category: "standards/pep"

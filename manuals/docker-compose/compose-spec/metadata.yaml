@@ -1,0 +1,15 @@
+title: "Compose Specification"
+description: "Standard for defining multi-container Docker applications."
+authors:
+  - 'Compose Specification Authors'
+created_at: 2026-04-26
+updated_at: 2026-04-26
+source: "https://raw.githubusercontent.com/compose-spec/compose-spec/main/spec.md"
+license: "Apache-2.0"
+tags:
+  - 'docker'
+  - 'compose'
+  - 'spec'
+  - 'yaml'
+language: en
+category: "manuals/docker-compose"

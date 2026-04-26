@@ -1,0 +1,15 @@
+title: "OWASP Top 10 (2021) — A05: Security Misconfiguration"
+description: "Missing appropriate security hardening across the application stack."
+authors:
+  - 'OWASP Foundation'
+created_at: 2026-04-26
+updated_at: 2026-04-26
+source: "https://raw.githubusercontent.com/OWASP/Top10/master/2021/docs/en/A05_2021-Security_Misconfiguration.md"
+license: "CC BY-SA 4.0"
+tags:
+  - 'owasp'
+  - 'configuration'
+  - 'security'
+  - 'hardening'
+language: en
+category: "security/owasp"

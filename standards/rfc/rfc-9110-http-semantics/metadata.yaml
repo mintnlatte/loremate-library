@@ -1,0 +1,15 @@
+title: "RFC 9110 — HTTP Semantics"
+description: "Architecture, terminology, and core HTTP semantics independent of version."
+authors:
+  - 'IETF'
+created_at: 2026-04-26
+updated_at: 2026-04-26
+source: "https://www.rfc-editor.org/rfc/rfc9110.txt"
+license: "IETF Trust"
+tags:
+  - 'http'
+  - 'semantics'
+  - 'protocol'
+  - 'web'
+language: en
+category: "standards/rfc"

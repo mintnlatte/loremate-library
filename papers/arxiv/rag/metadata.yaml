@@ -1,0 +1,27 @@
+title: "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"
+description: "Original RAG paper combining retriever and generator."
+authors:
+  - 'Patrick Lewis'
+  - 'Ethan Perez'
+  - 'Aleksandra Piktus'
+  - 'Fabio Petroni'
+  - 'Vladimir Karpukhin'
+  - 'Naman Goyal'
+  - 'Heinrich Küttler'
+  - 'Mike Lewis'
+  - 'Wen-tau Yih'
+  - 'Tim Rocktäschel'
+  - 'Sebastian Riedel'
+  - 'Douwe Kiela'
+created_at: 2020-05-22
+updated_at: 2026-04-26
+source: "https://arxiv.org/abs/2005.11401"
+license: "arXiv non-exclusive"
+tags:
+  - 'rag'
+  - 'retrieval'
+  - 'llm'
+  - 'nlp'
+language: en
+category: "papers/arxiv"
+arxiv_id: "2005.11401"
