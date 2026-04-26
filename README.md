@@ -51,31 +51,40 @@ topics/
 Future example:
 
 ```text
-projects/
-  loremate/
-    public/
-      concept/
-        README.md
-        overview.md
-      architecture/
-        README.md
-      rag/
-        README.md
-      web-client/
-        README.md
-
 topics/
-  development/
-    public/
-      docker/
-        README.md
-      git/
-        README.md
+  security/
+    authentication/
+      jwt-rfc-7519/
+      oauth2-rfc-6749/
+      tls-rfc-8446/
 
-organizations/
-  uangel/
-    public/
-      README.md
+  programming/
+    python/
+      pep-8/
+      pep-484/
+
+  machine-learning/
+    rag/
+    transformers/
+
+  databases/
+    postgresql/
+      indexes/
+      mvcc/
+
+  infrastructure/
+    kubernetes/
+      pods/
+      services/
+
+  security-best-practices/
+    owasp-top-10/
+      injection/
+      broken-authentication/
+
+  legal/
+    korea/
+      privacy/
 ```
 
 ## Authoring Rules
