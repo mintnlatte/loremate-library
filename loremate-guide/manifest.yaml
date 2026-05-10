@@ -1,0 +1,23 @@
+manifest_version: 1
+job_id: 20260510125637-979478
+kind: docs
+source_type: md
+generated_files:
+- README.md
+- metadata.yaml
+- sections/01-loremate-소개-가이드.md
+- sections/02-작성-메모.md
+- sections/03-아키텍처.md
+- sections/04-검색.md
+created_at: 1778417797
+provider: claude-code
+provider_version: claude-code
+target_scope: null
+target_path: null
+title: loremate 소개 가이드
+author: unknown
+tags:
+- loremate
+- guide
+- architecture
+- search
